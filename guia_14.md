@@ -9,7 +9,7 @@ Seção 14: Projeto: API RESTfull com typescript, Express
 #	dependências sistema -> em produção
 	npm init -y -> iniciando projeto nodejs
 	npm install config dotenv express express-validator mongoose morgan winston 
-
+  folder -> src 
 *	dependencias dev -> tempo de desenvolvimento
 	tsc --init  -> iniciando typescript 
 	npm install @types/config @types/express @types/mongoose @types/morgan @types/node ts-node-dev typescript --save-dev
@@ -25,11 +25,16 @@ file -> package.json
 	--respawn -> hot-reload 
 	--transpile-only src/app.ts -> mapea pasta/arquivos que ts-node-dev deve compilar 
 
+
+
 185. Integrando o Express
  -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30377784#overview
 
+   folder -> ↓ config
+            default.ts
 
-
+186. Rota de teste da API
+https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30377788#overview
 
 
 
