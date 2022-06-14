@@ -17,10 +17,50 @@ Seção 14: Projeto: API RESTfull com typescript, Express
 file -> package.json
 "scripts": {
     .....,
-    "dev": "ts-node-dev --respawn --transpile-only src/app.ts "
+    "dev": "ts-node-dev --respawn --transpile-only src/app.ts"
   },
 
 	ts-node-dev  -> compilador typescript 
 	 -> https://www.npmjs.com/package/ts-node-dev
 	--respawn -> hot-reload 
 	--transpile-only src/app.ts -> mapea pasta/arquivos que ts-node-dev deve compilar 
+
+185. Integrando o Express
+ -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30377784#overview
+
+
+
+
+
+
+
+
+
+
+
+install docker ce 
+ -> https://stackoverflow.com/questions/41133455/docker-repository-does-not-have-a-release-file-on-running-apt-get-update-on-ubun
+   
+	  pra instalar no linux mint
+        sudo apt-get remove docker docker-engine docker.io
+        
+        sudo apt-get update
+        
+        sudo apt-get install apt-transport-https ca-certificates curl software-properties-common
+        
+        curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+        
+        sudo apt-key fingerprint 0EBFCD88
+        
+        sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu xenial stable"
+        
+        sudo apt-get update
+
+sudo apt-get install docker-ce
+
+sudo docker run hello-world
+
+https://docs.docker.com/engine/install/ubuntu/
+
+# Manage Docker as a non-root user🔗
+ -> https://docs.docker.com/engine/install/linux-postinstall/
