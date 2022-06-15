@@ -39,6 +39,7 @@ https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/le
 
 188. Conectando ao banco de dados
 https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30377808#overview
+
  ./config/dt.ts -> configuração banco de dados 
   
 189. Criando variáveis de ambiente
