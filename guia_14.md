@@ -36,8 +36,12 @@ file -> package.json
 186. Rota de teste da API
 https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30377788#overview
 
+187. Criando banco de dados no MongoDB Atlas
+ -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30377794#overview
 
-
+ https://www.mongodb.com/atlas/database
+ 
+  https://cloud.mongodb.com/v2/62aa1fdd98b6c43fcbcd671f#clusters
 
 
 
