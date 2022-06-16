@@ -61,6 +61,17 @@ https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/le
  -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30377824#overview
 
 
+192. Criando o nosso Model
+ -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30377840#overview
+
+
+
+
+
+
+
+
+
 
 
 install docker ce 
