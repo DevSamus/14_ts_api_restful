@@ -39,10 +39,15 @@ https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/le
 187. Criando banco de dados no MongoDB Atlas
  -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30377794#overview
 
- https://www.mongodb.com/atlas/database
- 
-  https://cloud.mongodb.com/v2/62aa1fdd98b6c43fcbcd671f#clusters
 
+
+188. Conectando ao banco de dados
+https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30377808#overview
+
+ ./config/dt.ts -> configuração banco de dados 
+  
+189. Criando variáveis de ambiente
+ -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30377814#overview
 
 
 
