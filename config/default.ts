@@ -8,9 +8,8 @@ console.log(dbUser);
 console.log(dbPass);  
 */
 
-export default {
-	
+export default {	
   port: 3000,
-  //dbUri: `mongodb+srv://devsamus:Gma957760@cluster0.8af7obo.mongodb.net/dbm1?retryWrites=true&w=majority`,
   dbUri: `mongodb+srv://${dbUser}:${dbPass}@cluster0.8af7obo.mongodb.net/${dbName}?retryWrites=true&w=majority`,
+	env:"development"
 };
