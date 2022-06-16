@@ -64,8 +64,8 @@ https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/le
 192. Criando o nosso Model
  -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30377840#overview
 
-
-
+193. Criação do Controller
+ -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30377844#overview
 
 
 
