@@ -67,11 +67,23 @@ https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/le
 193. Criação do Controller
  -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30377844#overview
 
+ 194. Inserindo dados
+  -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30377878#overview
 
 
+ 195. Middleware de validação de erros
+  -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30377886#overview
+	
+
+ 196. Validação de filmes
+  -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30377896#overview
 
 
+197. Resgatando filme por id	
+ -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30377900#overview
 
+ 198. Resgatando todos os filmes
+ -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30377908#overview
 
 
 install docker ce 
