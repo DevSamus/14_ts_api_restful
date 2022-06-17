@@ -36,6 +36,14 @@ file -> package.json
 186. Rota de teste da API
 https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30377788#overview
 
+187. Criando banco de dados no MongoDB Atlas
+ -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30377794#overview
+
+# ATLAS 
+  https://www.mongodb.com/atlas/database
+ 
+  https://cloud.mongodb.com/v2/62aa1fdd98b6c43fcbcd671f#clusters
+
 
 188. Conectando ao banco de dados
 https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30377808#overview
@@ -45,6 +53,37 @@ https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/le
 189. Criando variáveis de ambiente
  -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30377814#overview
 
+190. Integrando o Winston
+ -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30377818#overview
+
+
+191. Configurando o Morgan
+ -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30377824#overview
+
+
+192. Criando o nosso Model
+ -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30377840#overview
+
+193. Criação do Controller
+ -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30377844#overview
+
+ 194. Inserindo dados
+  -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30377878#overview
+
+
+ 195. Middleware de validação de erros
+  -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30377886#overview
+	
+
+ 196. Validação de filmes
+  -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30377896#overview
+
+
+197. Resgatando filme por id	
+ -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30377900#overview
+
+ 198. Resgatando todos os filmes
+ -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30377908#overview
 
 
 install docker ce 

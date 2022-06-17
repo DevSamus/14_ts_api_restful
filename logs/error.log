@@ -1,0 +1,17 @@
+2022-06-16 12:35:32:3532 - [31merror[39m [31mNão foi possível conectar ao banco de dados[39m
+2022-06-16 12:35:32:3532 - [31merror[39m [31mbad auth : Authentication failed.[39m
+2022-06-16 12:38:33:3833 - [31merror[39m [31mNão foi possível conectar ao banco de dados[39m
+2022-06-16 12:39:29:3929 - [31merror[39m [31mNão foi possível conectar ao banco de dados[39m
+2022-06-16 13:42:41:4241 - [31merror[39m [31mNão foi possível conectar ao banco de dados[39m
+2022-06-17 11:08:38:838 - [31merror[39m [31mNão foi possível conectar ao banco de dados[39m
+2022-06-17 11:09:28:928 - [31merror[39m [31mNão foi possível conectar ao banco de dados[39m
+2022-06-17 12:06:24:624 - [31merror[39m [31mNo sistema ![39m
+[31m[39m
+2022-06-17 12:12:15:1215 - [31merror[39m [31mNão foi possível conectar ao banco de dados[39m
+2022-06-17 15:00:02:02 - [31merror[39m [31mErro no sistema:[39m
+2022-06-17 15:06:46:646 - [31merror[39m [31mErro no sistema:[39m
+2022-06-17 15:10:42:1042 - [31merror[39m [31mErro no sistema:[39m
+2022-06-17 15:14:48:1448 - [31merror[39m [31mErro no sistema: Cast to ObjectId failed for value "62acb834a0c54c718bee711d1" (type string) at path "_id" for model "Movie"[39m
+2022-06-17 15:15:29:1529 - [31merror[39m [31mErro no sistema: Cast to ObjectId failed for value "62acb834a0c54c718bee711de" (type string) at path "_id" for model "Movie"[39m
+2022-06-17 15:58:17:5817 - [31merror[39m [31mErro no sistema: Cast to ObjectId failed for value "62acb834a0c54c718bee711de" (type string) at path "_id" for model "Movie"[39m
+2022-06-17 15:59:17:5917 - [31merror[39m [31mErro no sistema: Cast to ObjectId failed for value "62acb834a0c54c718bee711de" (type string) at path "_id" for model "Movie"[39m
