@@ -302,3 +302,52 @@
 2022-06-17 16:02:27:227 - [32minfo[39m [32mhttp://localhost:3000/api/[39m
 2022-06-17 16:02:41:241 - [35mhttp[39m [35mGET /api/movie/62acb834a0c54c718bee711d 200 434 - 67.839 ms[39m
 [35m[39m
+2022-06-17 18:22:02:222 - [32minfo[39m [32mConexão estabelecida!![39m
+2022-06-17 18:22:02:222 - [32minfo[39m [32mA aplicação estar funcionado na porta 3000[39m
+2022-06-17 18:22:02:222 - [32minfo[39m [32mhttp://localhost:3000/api/[39m
+2022-06-17 18:23:53:2353 - [35mhttp[39m [35mGET /api/movie 404 148 - 3.378 ms[39m
+[35m[39m
+2022-06-17 18:25:17:2517 - [32minfo[39m [32mConexão estabelecida!![39m
+2022-06-17 18:25:17:2517 - [32minfo[39m [32mA aplicação estar funcionado na porta 3000[39m
+2022-06-17 18:25:17:2517 - [32minfo[39m [32mhttp://localhost:3000/api/[39m
+2022-06-17 18:25:28:2528 - [32minfo[39m [32mConexão estabelecida!![39m
+2022-06-17 18:25:28:2528 - [32minfo[39m [32mA aplicação estar funcionado na porta 3000[39m
+2022-06-17 18:25:28:2528 - [32minfo[39m [32mhttp://localhost:3000/api/[39m
+2022-06-17 18:27:05:275 - [32minfo[39m [32mConexão estabelecida!![39m
+2022-06-17 18:27:05:275 - [32minfo[39m [32mA aplicação estar funcionado na porta 3000[39m
+2022-06-17 18:27:05:275 - [32minfo[39m [32mhttp://localhost:3000/api/[39m
+2022-06-17 18:27:53:2753 - [32minfo[39m [32mConexão estabelecida!![39m
+2022-06-17 18:27:53:2753 - [32minfo[39m [32mA aplicação estar funcionado na porta 3000[39m
+2022-06-17 18:27:53:2753 - [32minfo[39m [32mhttp://localhost:3000/api/[39m
+2022-06-17 18:28:02:282 - [32minfo[39m [32mConexão estabelecida!![39m
+2022-06-17 18:28:02:282 - [32minfo[39m [32mA aplicação estar funcionado na porta 3000[39m
+2022-06-17 18:28:02:282 - [32minfo[39m [32mhttp://localhost:3000/api/[39m
+2022-06-17 18:28:07:287 - [35mhttp[39m [35mGET /api/movie 404 148 - 4.510 ms[39m
+[35m[39m
+2022-06-17 18:28:28:2828 - [35mhttp[39m [35mPOST /api/movie 422 285 - 10.836 ms[39m
+[35m[39m
+2022-06-17 18:31:40:3140 - [35mhttp[39m [35mPOST /api/movie 422 103 - 3.000 ms[39m
+[35m[39m
+2022-06-17 18:31:57:3157 - [35mhttp[39m [35mPOST /api/movie 422 99 - 1.978 ms[39m
+[35m[39m
+2022-06-17 18:34:02:342 - [31merror[39m [31mErro no sistema: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Movie"[39m
+2022-06-17 18:34:18:3418 - [35mhttp[39m [35mGET /api/movie/1 - - - - ms[39m
+[35m[39m
+2022-06-17 18:36:33:3633 - [32minfo[39m [32mConexão estabelecida!![39m
+2022-06-17 18:36:33:3633 - [32minfo[39m [32mA aplicação estar funcionado na porta 3000[39m
+2022-06-17 18:36:33:3633 - [32minfo[39m [32mhttp://localhost:3000/api/[39m
+2022-06-17 18:36:36:3636 - [31merror[39m [31mErro no sistema: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Movie"[39m
+2022-06-17 18:36:40:3640 - [35mhttp[39m [35mGET /api/movie/1 - - - - ms[39m
+[35m[39m
+2022-06-17 18:37:00:370 - [32minfo[39m [32mConexão estabelecida!![39m
+2022-06-17 18:37:00:370 - [32minfo[39m [32mA aplicação estar funcionado na porta 3000[39m
+2022-06-17 18:37:00:370 - [32minfo[39m [32mhttp://localhost:3000/api/[39m
+2022-06-17 18:37:01:371 - [31merror[39m [31m no sistema: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Movie"[39m
+2022-06-17 18:37:03:373 - [35mhttp[39m [35mGET /api/movie/1 - - - - ms[39m
+[35m[39m
+2022-06-17 18:39:06:396 - [32minfo[39m [32mConexão estabelecida!![39m
+2022-06-17 18:39:06:396 - [32minfo[39m [32mA aplicação estar funcionado na porta 3000[39m
+2022-06-17 18:39:06:396 - [32minfo[39m [32mhttp://localhost:3000/api/[39m
+2022-06-17 18:39:10:3910 - [31merror[39m [31m no sistema: Cast to ObjectId failed for value "1" (type string) at path "_id" for model "Movie"[39m
+2022-06-17 18:39:10:3910 - [35mhttp[39m [35mGET /api/movie/1 404 101 - 18.859 ms[39m
+[35m[39m
