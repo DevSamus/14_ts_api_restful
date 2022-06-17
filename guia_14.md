@@ -85,6 +85,9 @@ https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/le
  198. Resgatando todos os filmes
  -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30377908#overview
 
+ 199. Removendo registros
+  -> https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/learn/lecture/30377912#overview
+
 
 install docker ce 
  -> https://stackoverflow.com/questions/41133455/docker-repository-does-not-have-a-release-file-on-running-apt-get-update-on-ubun
