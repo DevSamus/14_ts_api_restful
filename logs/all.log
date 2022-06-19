@@ -474,3 +474,162 @@
 [35m[39m
 2022-06-18 13:39:13:3913 - [35mhttp[39m [35mGET /api/movie 200 1183 - 37.287 ms[39m
 [35m[39m
+2022-06-18 16:10:52:1052 - [32minfo[39m [32mConexão estabelecida!![39m
+2022-06-18 16:10:52:1052 - [32minfo[39m [32mA aplicação estar funcionado na porta 3000[39m
+2022-06-18 16:10:52:1052 - [32minfo[39m [32mhttp://localhost:3000/api/[39m
+2022-06-18 19:07:16:716 - [32minfo[39m [32mConexão estabelecida!![39m
+2022-06-18 19:07:16:716 - [32minfo[39m [32mA aplicação estar funcionado na porta 3000[39m
+2022-06-18 19:07:16:716 - [32minfo[39m [32mhttp://localhost:3000/api/[39m
+2022-06-18 19:07:18:718 - [31merror[39m [31mo ID:(62ac9073c20e870c00a3a94b) não retornou nenhum resultado![39m
+2022-06-18 19:07:19:719 - [35mhttp[39m [35mDELETE /api/movied/62ac9073c20e870c00a3a94b 404 32 - 48.581 ms[39m
+[35m[39m
+2022-06-18 19:07:27:727 - [31merror[39m [31mErro sistema: undefined[39m
+2022-06-18 19:07:27:727 - [35mhttp[39m [35mDELETE /api/movied/62ac9073c20e870c00a3a94bl 101 2 - 5.003 ms[39m
+[35m[39m
+2022-06-18 19:08:02:82 - [32minfo[39m [32mConexão estabelecida!![39m
+2022-06-18 19:08:02:82 - [32minfo[39m [32mA aplicação estar funcionado na porta 3000[39m
+2022-06-18 19:08:02:82 - [32minfo[39m [32mhttp://localhost:3000/api/[39m
+2022-06-18 19:09:14:914 - [32minfo[39m [32mConexão estabelecida!![39m
+2022-06-18 19:09:14:914 - [32minfo[39m [32mA aplicação estar funcionado na porta 3000[39m
+2022-06-18 19:09:14:914 - [32minfo[39m [32mhttp://localhost:3000/api/[39m
+2022-06-18 19:09:54:954 - [32minfo[39m [32mConexão estabelecida!![39m
+2022-06-18 19:09:54:954 - [32minfo[39m [32mA aplicação estar funcionado na porta 3000[39m
+2022-06-18 19:09:54:954 - [32minfo[39m [32mhttp://localhost:3000/api/[39m
+2022-06-18 19:10:02:102 - [31merror[39m [31min sistema: Cast to ObjectId failed for value "62ac9073c20e870c00a3a94bl" (type string) at path "_id" for model "Movie"[39m
+2022-06-18 19:10:02:102 - [35mhttp[39m [35mDELETE /api/movied/62ac9073c20e870c00a3a94bl 101 125 - 11.793 ms[39m
+[35m[39m
+2022-06-18 19:10:57:1057 - [32minfo[39m [32mConexão estabelecida!![39m
+2022-06-18 19:10:57:1057 - [32minfo[39m [32mA aplicação estar funcionado na porta 3000[39m
+2022-06-18 19:10:57:1057 - [32minfo[39m [32mhttp://localhost:3000/api/[39m
+2022-06-18 19:10:59:1059 - [31merror[39m [31min sistema: Cast to ObjectId failed for value "62ac9073c20e870c00a3a94bl" (type string) at path "_id" for model "Movie"[39m
+2022-06-18 19:10:59:1059 - [35mhttp[39m [35mDELETE /api/movied/62ac9073c20e870c00a3a94bl 404 125 - 15.994 ms[39m
+[35m[39m
+2022-06-18 21:47:35:4735 - [32minfo[39m [32mConexão estabelecida!![39m
+2022-06-18 21:47:35:4735 - [32minfo[39m [32mA aplicação estar funcionado na porta 3000[39m
+2022-06-18 21:47:35:4735 - [32minfo[39m [32mhttp://localhost:3000/api/[39m
+2022-06-18 21:47:40:4740 - [31merror[39m [31min sistema: Cast to ObjectId failed for value "62ac9073c20e870c00a3a94bl" (type string) at path "_id" for model "Movie"[39m
+2022-06-18 21:47:40:4740 - [35mhttp[39m [35mDELETE /api/movieDelete/62ac9073c20e870c00a3a94bl 404 125 - 10.126 ms[39m
+[35m[39m
+2022-06-18 21:48:31:4831 - [35mhttp[39m [35mGET /api/movieUpdate/62ac9073c20e870c00a3a94bl 404 180 - 2.299 ms[39m
+[35m[39m
+2022-06-18 21:48:45:4845 - [35mhttp[39m [35mPUT /api/movieUpdate/62ac9073c20e870c00a3a94bl 404 180 - 1.060 ms[39m
+[35m[39m
+2022-06-18 21:48:57:4857 - [35mhttp[39m [35mPATCH /api/movieUpdate/62ac9073c20e870c00a3a94bl 404 182 - 0.629 ms[39m
+[35m[39m
+2022-06-18 21:49:03:493 - [35mhttp[39m [35mPOST /api/movieUpdate/62ac9073c20e870c00a3a94bl 404 181 - 0.624 ms[39m
+[35m[39m
+2022-06-18 21:49:45:4945 - [35mhttp[39m [35mPUT /api/movieUpdate/62ac9073c20e870c00a3a94bl 404 180 - 0.726 ms[39m
+[35m[39m
+2022-06-18 21:50:11:5011 - [32minfo[39m [32mConexão estabelecida!![39m
+2022-06-18 21:50:11:5011 - [32minfo[39m [32mA aplicação estar funcionado na porta 3000[39m
+2022-06-18 21:50:11:5011 - [32minfo[39m [32mhttp://localhost:3000/api/[39m
+2022-06-18 21:50:42:5042 - [32minfo[39m [32mConexão estabelecida!![39m
+2022-06-18 21:50:42:5042 - [32minfo[39m [32mA aplicação estar funcionado na porta 3000[39m
+2022-06-18 21:50:42:5042 - [32minfo[39m [32mhttp://localhost:3000/api/[39m
+2022-06-18 21:50:43:5043 - [31merror[39m [31m no sistema: Cast to ObjectId failed for value "62ac9073c20e870c00a3a94bl" (type string) at path "_id" for model "Movie"[39m
+2022-06-18 21:50:43:5043 - [35mhttp[39m [35mPUT /api/movieUpdate/62ac9073c20e870c00a3a94bl 404 135 - 10.921 ms[39m
+[35m[39m
+2022-06-18 21:50:53:5053 - [31merror[39m [31mo ID:(62ac9073c20e870c00a3a94b) não retornou nenhum resultado![39m
+2022-06-18 21:50:53:5053 - [35mhttp[39m [35mPUT /api/movieUpdate/62ac9073c20e870c00a3a94b 404 32 - 31.315 ms[39m
+[35m[39m
+2022-06-18 21:51:47:5147 - [32minfo[39m [32mConexão estabelecida!![39m
+2022-06-18 21:51:47:5147 - [32minfo[39m [32mA aplicação estar funcionado na porta 3000[39m
+2022-06-18 21:51:47:5147 - [32minfo[39m [32mhttp://localhost:3000/api/[39m
+2022-06-18 21:52:18:5218 - [32minfo[39m [32mConexão estabelecida!![39m
+2022-06-18 21:52:18:5218 - [32minfo[39m [32mA aplicação estar funcionado na porta 3000[39m
+2022-06-18 21:52:18:5218 - [32minfo[39m [32mhttp://localhost:3000/api/[39m
+2022-06-18 21:53:37:5337 - [32minfo[39m [32mConexão estabelecida!![39m
+2022-06-18 21:53:37:5337 - [32minfo[39m [32mA aplicação estar funcionado na porta 3000[39m
+2022-06-18 21:53:37:5337 - [32minfo[39m [32mhttp://localhost:3000/api/[39m
+2022-06-18 21:54:25:5425 - [35mhttp[39m [35mGET /api/movie 200 1183 - 47.501 ms[39m
+[35m[39m
+2022-06-18 21:58:46:5846 - [31merror[39m [31m no sistema: Performing an update on the path '_id' would modify the immutable field '_id'[39m
+2022-06-18 21:58:46:5846 - [35mhttp[39m [35mPUT /api/movieUpdate/62acb524bcc2f8de3b9ae711 404 99 - 70.964 ms[39m
+[35m[39m
+2022-06-18 22:00:21:021 - [31merror[39m [31m no sistema: Performing an update on the path '_id' would modify the immutable field '_id'[39m
+2022-06-18 22:00:21:021 - [35mhttp[39m [35mPUT /api/movieUpdate/62acb524bcc2f8de3b9ae711 404 99 - 55.967 ms[39m
+[35m[39m
+2022-06-18 22:03:00:30 - [32minfo[39m [32mConexão estabelecida!![39m
+2022-06-18 22:03:00:30 - [32minfo[39m [32mA aplicação estar funcionado na porta 3000[39m
+2022-06-18 22:03:00:30 - [32minfo[39m [32mhttp://localhost:3000/api/[39m
+2022-06-18 22:03:11:311 - [31merror[39m [31m no sistema: Performing an update on the path '_id' would modify the immutable field '_id'[39m
+2022-06-18 22:03:11:311 - [35mhttp[39m [35mPATCH /api/movieUpdate/62acb524bcc2f8de3b9ae711 404 99 - 85.004 ms[39m
+[35m[39m
+2022-06-18 22:03:26:326 - [31merror[39m [31m no sistema: Performing an update on the path '_id' would modify the immutable field '_id'[39m
+2022-06-18 22:03:26:326 - [35mhttp[39m [35mPATCH /api/movieUpdate/62acb524bcc2f8de3b9ae711 404 99 - 50.050 ms[39m
+[35m[39m
+2022-06-18 22:05:26:526 - [32minfo[39m [32mConexão estabelecida!![39m
+2022-06-18 22:05:26:526 - [32minfo[39m [32mA aplicação estar funcionado na porta 3000[39m
+2022-06-18 22:05:26:526 - [32minfo[39m [32mhttp://localhost:3000/api/[39m
+2022-06-18 22:05:47:547 - [32minfo[39m [32mConexão estabelecida!![39m
+2022-06-18 22:05:47:547 - [32minfo[39m [32mA aplicação estar funcionado na porta 3000[39m
+2022-06-18 22:05:47:547 - [32minfo[39m [32mhttp://localhost:3000/api/[39m
+2022-06-18 22:05:53:553 - [35mhttp[39m [35mPATCH /api/movieUpdate/62acb524bcc2f8de3b9ae711 200 39 - 85.571 ms[39m
+[35m[39m
+2022-06-18 22:06:01:61 - [35mhttp[39m [35mGET /api/movie 200 1424 - 34.191 ms[39m
+[35m[39m
+2022-06-18 22:08:52:852 - [32minfo[39m [32mConexão estabelecida!![39m
+2022-06-18 22:08:52:852 - [32minfo[39m [32mA aplicação estar funcionado na porta 3000[39m
+2022-06-18 22:08:52:852 - [32minfo[39m [32mhttp://localhost:3000/api/[39m
+2022-06-18 22:09:01:91 - [35mhttp[39m [35mPATCH /api/movieUpdate/62acb524bcc2f8de3b9ae711 422 56 - 14.546 ms[39m
+[35m[39m
+2022-06-18 22:09:19:919 - [35mhttp[39m [35mPATCH /api/movieUpdate/62acb524bcc2f8de3b9ae711 200 39 - 84.817 ms[39m
+[35m[39m
+2022-06-18 22:09:30:930 - [35mhttp[39m [35mGET /api/movie 200 1423 - 36.583 ms[39m
+[35m[39m
+2022-06-18 22:10:02:102 - [35mhttp[39m [35mPATCH /api/movieUpdate/62acb524bcc2f8de3b9ae711 200 39 - 73.415 ms[39m
+[35m[39m
+2022-06-18 22:10:11:1011 - [35mhttp[39m [35mPATCH /api/movieUpdate/62acb524bcc2f8de3b9ae711 200 39 - 60.675 ms[39m
+[35m[39m
+2022-06-18 22:10:16:1016 - [35mhttp[39m [35mGET /api/movie 200 1423 - 28.733 ms[39m
+[35m[39m
+2022-06-18 22:10:39:1039 - [31merror[39m [31mo ID:(62acb524bcc2f8de3b9ae710) não retornou nenhum resultado![39m
+2022-06-18 22:10:39:1039 - [35mhttp[39m [35mPATCH /api/movieUpdate/62acb524bcc2f8de3b9ae710 404 32 - 24.732 ms[39m
+[35m[39m
+2022-06-18 22:14:49:1449 - [32minfo[39m [32mConexão estabelecida!![39m
+2022-06-18 22:14:49:1449 - [32minfo[39m [32mA aplicação estar funcionado na porta 3000[39m
+2022-06-18 22:14:49:1449 - [32minfo[39m [32mhttp://localhost:3000/api/[39m
+2022-06-18 22:15:03:153 - [31merror[39m [31mo ID:(62acb524bcc2f8de3b9ae710) não retornou nenhum resultado![39m
+2022-06-18 22:15:03:153 - [35mhttp[39m [35mPATCH /api/movieUpdate/62acb524bcc2f8de3b9ae710 404 32 - 59.943 ms[39m
+[35m[39m
+2022-06-18 22:15:10:1510 - [35mhttp[39m [35mPATCH /api/movieUpdate/62acb524bcc2f8de3b9ae711 200 39 - 81.808 ms[39m
+[35m[39m
+2022-06-18 22:18:05:185 - [32minfo[39m [32mConexão estabelecida!![39m
+2022-06-18 22:18:05:185 - [32minfo[39m [32mA aplicação estar funcionado na porta 3000[39m
+2022-06-18 22:18:05:185 - [32minfo[39m [32mhttp://localhost:3000/api/[39m
+2022-06-18 22:18:12:1812 - [35mhttp[39m [35mPATCH /api/movieUpdate/62acb524bcc2f8de3b9ae711 200 409 - 94.700 ms[39m
+[35m[39m
+2022-06-18 22:19:18:1918 - [35mhttp[39m [35mGET /api/movie 200 1424 - 41.372 ms[39m
+[35m[39m
+2022-06-18 22:20:49:2049 - [32minfo[39m [32mConexão estabelecida!![39m
+2022-06-18 22:20:49:2049 - [32minfo[39m [32mA aplicação estar funcionado na porta 3000[39m
+2022-06-18 22:20:49:2049 - [32minfo[39m [32mhttp://localhost:3000/api/[39m
+2022-06-18 22:21:08:218 - [32minfo[39m [32mConexão estabelecida!![39m
+2022-06-18 22:21:08:218 - [32minfo[39m [32mA aplicação estar funcionado na porta 3000[39m
+2022-06-18 22:21:08:218 - [32minfo[39m [32mhttp://localhost:3000/api/[39m
+2022-06-18 22:22:02:222 - [32minfo[39m [32mConexão estabelecida!![39m
+2022-06-18 22:22:02:222 - [32minfo[39m [32mA aplicação estar funcionado na porta 3000[39m
+2022-06-18 22:22:02:222 - [32minfo[39m [32mhttp://localhost:3000/api/[39m
+2022-06-18 22:22:09:229 - [35mhttp[39m [35mPATCH /api/movie/62acb524bcc2f8de3b9ae711 422 56 - 18.368 ms[39m
+[35m[39m
+2022-06-18 22:23:18:2318 - [32minfo[39m [32mConexão estabelecida!![39m
+2022-06-18 22:23:18:2318 - [32minfo[39m [32mA aplicação estar funcionado na porta 3000[39m
+2022-06-18 22:23:18:2318 - [32minfo[39m [32mhttp://localhost:3000/api/[39m
+2022-06-18 22:23:33:2333 - [35mhttp[39m [35mPATCH /api/movie/62acb524bcc2f8de3b9ae710 422 56 - 17.268 ms[39m
+[35m[39m
+2022-06-18 22:23:42:2342 - [31merror[39m [31morigin update -> o ID:(62acb524bcc2f8de3b9ae710) não retornou nenhum resultado![39m
+2022-06-18 22:23:42:2342 - [35mhttp[39m [35mPATCH /api/movie/62acb524bcc2f8de3b9ae710 404 49 - 47.117 ms[39m
+[35m[39m
+2022-06-18 22:23:55:2355 - [31merror[39m [31m no sistema: Cast to ObjectId failed for value "62acb524bcc2f8de3b9ae710e" (type string) at path "_id" for model "Movie" -> origin update[39m
+2022-06-18 22:23:55:2355 - [35mhttp[39m [35mPATCH /api/movie/62acb524bcc2f8de3b9ae710e 404 142 - 4.866 ms[39m
+[35m[39m
+2022-06-18 22:24:33:2433 - [32minfo[39m [32mConexão estabelecida!![39m
+2022-06-18 22:24:33:2433 - [32minfo[39m [32mA aplicação estar funcionado na porta 3000[39m
+2022-06-18 22:24:33:2433 - [32minfo[39m [32mhttp://localhost:3000/api/[39m
+2022-06-18 22:24:45:2445 - [31merror[39m [31m no sistema: Cast to ObjectId failed for value "62acb524bcc2f8de3b9ae710e" (type string) at path "_id" for model "Movie" -> origin update[39m
+2022-06-18 22:24:45:2445 - [35mhttp[39m [35mPATCH /api/movie/62acb524bcc2f8de3b9ae710e 404 142 - 23.217 ms[39m
+[35m[39m
+2022-06-18 22:24:54:2454 - [35mhttp[39m [35mPATCH /api/movie/62acb524bcc2f8de3b9ae711 200 408 - 83.849 ms[39m
+[35m[39m
+2022-06-18 22:24:57:2457 - [35mhttp[39m [35mGET /api/movie 200 1423 - 29.383 ms[39m
+[35m[39m
